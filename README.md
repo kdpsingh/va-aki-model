@@ -15,7 +15,9 @@ Operating systems: Windows, Mac, Linux
 Software: R 3.6+
 
 The models we provide in this repository are MOJO objects which are
-compatible with different versions of h2o.
+compatible with all versions of h2o.
+
+Runtime: The runtime for preparing the data using the `gpmodels` depends on local computing resources and sample size, varying from hours to days. The runtime for generating predictions (Step 6) depends on local computing resources and test set size, varying from seconds to minutes.
 
 # Instruction
 
