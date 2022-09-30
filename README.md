@@ -1,6 +1,4 @@
-A repository to accompany our draft paper entitled “Reproducibility and
-generalizability of a state-of-the-art acute kidney injury prediction
-model”
+A repository to accompany our draft paper entitled “Sex differences and generalizability across health systems in the prediction of acute kidney injury”
 
 # System Information
 
